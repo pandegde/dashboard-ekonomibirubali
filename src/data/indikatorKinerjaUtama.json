@@ -1,0 +1,1035 @@
+{
+  "indikatorKinerjaUtama": {
+    "2025": [
+      {
+        "id": 1,
+        "sasaran": "Meningkatkan kesehatan lingkungan, ketahanan pangan dan produktivitas sumber daya kelautan dan perikanan yang berkelanjutan",
+        "nama": "Indeks Ekonomi Biru (IBEI)",
+        "satuan": "Indeks",
+        "target": {
+          "2025": 25.47,
+          "2026": 27.5,
+          "2027": 29.7,
+          "2028": 32.08,
+          "2029": 34.65,
+          "2030": 37.42
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 25.47,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Dashboard Indeks Ekonomi Biru (IBEI) Provnisi Bali"
+      },
+      {
+        "id": 2,
+        "sasaran": "Meningkatnya lingkungan wilayah pesisir dan pulau-pulau kecil yang sehat, beragam dan produktif",
+        "nama": "Persentase Pemanfaatan Ruang Laut",
+        "satuan": "persen",
+        "target": {
+          "2025": 4.9,
+          "2026": 5.13,
+          "2027": 11.22,
+          "2028": 11.22,
+          "2029": 11.22,
+          "2030": 11.22
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 4,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 81.63265306122447,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Luas Total Kawasan Konservasi yang Telah ditetapkan oleh pemerintah pusat/Luas Total Perairan Provinsi Bali x 100% (Luas Perairan Bali = 915.302 ha)"
+      },
+      {
+        "id": 3,
+        "sasaran": "Meningkatnya ketahanan sektor perikanan terhadap bencana dan perubahan iklim",
+        "nama": "Persentase cakupan ketersediaan komoditas perikanan sensitif iklim yang aman, sehat dan berkualitas",
+        "satuan": "Persen",
+        "target": {
+          "2025": 40.96,
+          "2026": 52.73,
+          "2027": 64.5,
+          "2028": 76.27,
+          "2029": 88.04,
+          "2030": 99.81
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 40,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 97.65625,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Dashboard Excel Jumlah Komoditas Unggulan Perikanan Tangkap yang Sensitif Iklim/Jumlah Total Komoditas Uanggulan x 100%"
+      },
+      {
+        "id": 4,
+        "sasaran": "Meningkatnya Kontribusi PDRB sektor perikanan provinsi",
+        "nama": "Persentase Kontribusi PDRB sektor perikanan provinsi bali terhadap PDRB provinsi bali (ADHB)",
+        "satuan": "Persen",
+        "target": {
+          "2025": 4.44,
+          "2026": 4.62,
+          "2027": 4.8,
+          "2028": 5,
+          "2029": 5.2,
+          "2030": 5.4
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 4,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 90.09009009009009,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Data Kontribusi PDRB sektor perikanan provinsi bali terhadap PDRB provinsi bali (ADHB) dari BPS"
+      },
+      {
+        "id": 5,
+        "sasaran": "Terwujudnya kedaulatan dalam pengelolaan sumber daya kelautan dan perikanan",
+        "nama": "Indeks Kepatuhan (Compliance) Pelaku Usaha",
+        "satuan": "Persen",
+        "target": {
+          "2025": 5.28,
+          "2026": 18.96,
+          "2027": 19.6,
+          "2028": 20.05,
+          "2029": 20.54,
+          "2030": 20.86
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 5,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 94.69696969696969,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Xkp=(X1+X2+X3+X4)/4"
+      },
+      {
+        "id": 6,
+        "sasaran": "Meningkatnya Daya Saing Produk Olahan Hasil Perikanan",
+        "nama": "Persentase Kontribusi Ekspor Produk Perikanan Terhadap Total Nilai Ekspor Provinsi Bali",
+        "satuan": "Persen",
+        "target": {
+          "2025": 27.07,
+          "2026": 27.61,
+          "2027": 28.16,
+          "2028": 28.73,
+          "2029": 29.3,
+          "2030": 29.89
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 27,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 99.74141115626153,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Data Kontribusi Ekspor Provinsi Bali Menurut Kelompok Komoditas Utama dari BPS"
+      },
+      {
+        "id": 7,
+        "sasaran": "Meningkatnya Akuntabilitas, transparansi dan responsibilitas pelayanan publik",
+        "nama": "Indeks Kepuasan Masyarakat",
+        "satuan": "Nilai",
+        "target": {
+          "2025": 82,
+          "2026": 83,
+          "2027": 84,
+          "2028": 85,
+          "2029": 86,
+          "2030": 87
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 82,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Hasil Survey IKM Dinas"
+      }
+    ]
+  }
+}

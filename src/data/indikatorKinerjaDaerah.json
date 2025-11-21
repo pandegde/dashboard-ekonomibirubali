@@ -1,0 +1,1174 @@
+{
+  "indikatorKinerjaDaerah": {
+    "2025": [
+      {
+        "id": 1,
+        "nama": "Produksi Perikanan",
+        "satuan": "Ton",
+        "target": {
+          "2025": 140958.19,
+          "2026": 143777.35,
+          "2027": 146652.9,
+          "2028": 149585.96,
+          "2029": 152577.68,
+          "2030": 155629.23
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 140958.19,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Data Produksi Perikanan"
+      },
+      {
+        "id": 2,
+        "nama": "Konsumsi Ikan",
+        "satuan": "Kg/Kapita/Tahun",
+        "target": {
+          "2025": 51.2,
+          "2026": 51.5,
+          "2027": 52.66,
+          "2028": 53.2,
+          "2029": 54.73,
+          "2030": 55.27
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 51.2,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Data Angka Konsumsi Ikan"
+      },
+      {
+        "id": 3,
+        "nama": "Cakupan Bina Kelompok Nelayan",
+        "satuan": "Persen",
+        "target": {
+          "2025": 40.96,
+          "2026": 52.73,
+          "2027": 64.5,
+          "2028": 76.27,
+          "2029": 88.04,
+          "2030": 99.81
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 30,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 73.2421875,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Pembinaan Kelompok Nelayan, Jumlah KUB = 1079 Tahun 2025, Yang Telah di Bina = 315 KUB"
+      },
+      {
+        "id": 4,
+        "nama": "Produksi Perikanan Kelompok Nelayan",
+        "satuan": "Persen",
+        "target": {
+          "2025": 83,
+          "2026": 84,
+          "2027": 85,
+          "2028": 87,
+          "2029": 88,
+          "2030": 90
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 80,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 96.3855421686747,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Produksi Tangkap Bali di kurang Produksi Benoa * 100%"
+      },
+      {
+        "id": 5,
+        "nama": "Proporsi Tangkapan Ikan yang Berada dalam Batasan Biologis yang Aman",
+        "satuan": "Ton",
+        "target": {
+          "2025": 107515.02,
+          "2026": 109665.32,
+          "2027": 111858.62,
+          "2028": 114095.8,
+          "2029": 116377.71,
+          "2030": 118705.27
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 107515.02,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Target Produksi Perikanan Tangkap"
+      },
+      {
+        "id": 6,
+        "nama": "Rasio Kawasan Lindung Perairan Terhadap Total Luas Perairan Teritorial",
+        "satuan": "Persen",
+        "target": {
+          "2025": 4.9,
+          "2026": 5.13,
+          "2027": 11.22,
+          "2028": 11.22,
+          "2029": 11.22,
+          "2030": 11.22
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 4.9,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Luas Total Kawasan Konservasi yang Telah ditetapkan oleh pemerintah pusat/Luas Total Perairan Provinsi Bali x 100%"
+      },
+      {
+        "id": 7,
+        "nama": "Nilai Tukar Nelayan (NTN)",
+        "satuan": "Persen",
+        "target": {
+          "2025": 100.25,
+          "2026": 100.28,
+          "2027": 100.31,
+          "2028": 100.34,
+          "2029": 100.37,
+          "2030": 100.4
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 99.75062344139651,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Data Nilai Tukar Nelayan"
+      },
+      {
+        "id": 8,
+        "nama": "Nilai Tukar Pembudidaya Ikan (NTPi)",
+        "satuan": "Persen",
+        "target": {
+          "2025": 109.13,
+          "2026": 110.56,
+          "2027": 112.01,
+          "2028": 113.47,
+          "2029": 114.96,
+          "2030": 109.13
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 109,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 99.88087601942638,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Data Nilai Tukar Pembudidaya Ikan"
+      }
+    ]
+  }
+}

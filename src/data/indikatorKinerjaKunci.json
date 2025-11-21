@@ -1,0 +1,1182 @@
+{
+  "indikatorKinerjaKunci": {
+    "2025": [
+      {
+        "id": 1,
+        "sasaran": "Meningkatnya Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil yang lestari dan berkelanjutan",
+        "nama": "Persentase Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil",
+        "satuan": "Persen",
+        "target": {
+          "2025": 30.59,
+          "2026": 32.5,
+          "2027": 34.42,
+          "2028": 36.33,
+          "2029": 38.24,
+          "2030": 40.15
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 30,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 98.07126511932005,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "(Jumlah Pelaku Usaha Yang Sudah Memiliki KKPRL/Jumlah Seluruh Pelaku Usaha Pemanfaat Ruang Laut)*100% (Data Dasar Pelaku Usaha 2025 = 523)"
+      },
+      {
+        "id": 2,
+        "sasaran": "Meningkatnya Produktivitas Produksi Perikanan Tangkap",
+        "nama": "Persentase Peningkatan Produksi Perikanan Tangkap",
+        "satuan": "persen",
+        "target": {
+          "2025": 2,
+          "2026": 2,
+          "2027": 2,
+          "2028": 2,
+          "2029": 2,
+          "2030": 2
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 2,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "(Jumlah Produksi Perikanan Tangkap Tahun Berjalan - Jumlah Produksi Perikanan Tangkap Tahun Sebelumnnya)/Jumlah Produksi Perikanan Tangkap Tahun Sebelumnnya x 100%"
+      },
+      {
+        "id": 3,
+        "sasaran": "Meningkatnya Produktivitas Perikanan Budidaya",
+        "nama": "Persentase peningkatan produksi perikanan budidaya",
+        "satuan": "Persen",
+        "target": {
+          "2025": 2,
+          "2026": 2,
+          "2027": 2,
+          "2028": 2,
+          "2029": 2,
+          "2030": 2
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 2,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Jumlah Produksi Perikanan Budidaya Tahun Berjalan - Jumlah Produksi Perikanan Budidaya Tahun Sebelumnnya)/Jumlah Produksi Perikanan Budidaya Tahun Sebelumnnya x 100%"
+      },
+      {
+        "id": 4,
+        "sasaran": "Meningkatnya pengawasan pemanfatan sumber daya kelautan dan perikanan",
+        "nama": "Persentase Kepatuhan Pelaku Usaha Kelautan dan Perikanan terhadap Ketentuan Peraturan Perundangan yang Berlaku",
+        "satuan": "Persen",
+        "target": {
+          "2025": 5.28,
+          "2026": 18.96,
+          "2027": 19.6,
+          "2028": 20.05,
+          "2029": 20.54,
+          "2030": 20.86
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 5,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 94.69696969696969,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Persentase Kepatuhan Pelaku usaha (PKPU) = (KPU/JKPU) x 100%"
+      },
+      {
+        "id": 5,
+        "sasaran": "Meningkatnya Produksi Olahan Hasil Perikanan ",
+        "nama": "Persentase Peningkatan  produksi olahan hasil perikanan",
+        "satuan": "Persen",
+        "target": {
+          "2025": 2,
+          "2026": 2,
+          "2027": 2,
+          "2028": 2,
+          "2029": 2,
+          "2030": 2
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 2,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "(Jumlah Produksi Olahan Hasil Perikanan Tahun Berjalan - Jumlah Produksi Olahan Hasil Perikanan Tahun Sebelumnnya)/Jumlah Produksi Olahan Hasil Perikanan Tahun Sebelumnnya x 100%"
+      },
+      {
+        "id": 6,
+        "sasaran": "Meningkatnya Mutu dan Keamanan Produk Hasil Kelautan dan Perikanan",
+        "nama": "Persentase peningkatanan mutu dan keamanan Produk Hasil Kelautan dan Perikanan",
+        "satuan": "Persen",
+        "target": {
+          "2025": 2,
+          "2026": 2,
+          "2027": 2,
+          "2028": 2,
+          "2029": 2,
+          "2030": 2
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 2,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 100,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "valid",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "(Jumlah uji Tahun n - Jumlah yang di uji Tahun -n)/Jumlah yang di uji tahun -n x 100%"
+      },
+      {
+        "id": 7,
+        "sasaran": "Meningkatnya Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil yang lestari dan berkelanjutan",
+        "nama": "Persentase Pengelolaan Kawasan Konservasi Perairan",
+        "satuan": "Persen",
+        "target": {
+          "2025": 66.67,
+          "2026": 83.33,
+          "2027": 100,
+          "2028": 100,
+          "2029": 100,
+          "2030": 100
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 66,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 98.99505024748763,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Kawasan Konservasi yang dikelola/Total Kawasan Konservasi*100%"
+      },
+      {
+        "id": 8,
+        "sasaran": "Meningkatnya Kualitas Layanan Penunjang Urusan Pemerintah Daerah Provinsi",
+        "nama": "Nilai Evaluasi Manajemen Kinerja ",
+        "satuan": "Nilai",
+        "target": {
+          "2025": 82,
+          "2026": 83,
+          "2027": 84,
+          "2028": 85,
+          "2029": 86,
+          "2030": 87
+        },
+        "realisasi": {
+          "2025": {
+            "TW1": 80,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "capaian": {
+          "2025": {
+            "TW1": 97.5609756097561,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2026": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2027": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2028": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2029": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          },
+          "2030": {
+            "TW1": null,
+            "TW2": null,
+            "TW3": null,
+            "TW4": null,
+            "Tahunan": null
+          }
+        },
+        "validasi": {
+          "2025": {
+            "TW1": "*",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2026": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2027": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2028": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2029": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          },
+          "2030": {
+            "TW1": "",
+            "TW2": "",
+            "TW3": "",
+            "TW4": "",
+            "Tahunan": ""
+          }
+        },
+        "keterangan": "Nilai Sistem Akuntabilitas Kinerja Instansi Pemerintah (SAKIP) Perangkat Daerah"
+      }
+    ]
+  }
+}

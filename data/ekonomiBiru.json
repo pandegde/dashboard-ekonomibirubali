@@ -1,0 +1,403 @@
+{
+  "ekonomiBiru": {
+    "2024": {
+      "indikator": [
+        {
+          "id": "ekonomi",
+          "title": "Pilar Ekonomi",
+          "color": "blue",
+          "subPilar": [
+            {
+              "id": "perikanan",
+              "title": "Subpilar Perikanan Tangkap & Budidaya",
+              "indikator": [
+                {
+                  "id": "pdrb",
+                  "label": "Peran sektor perikanan dalam PDB (%)",
+                  "rawValue": 5.45,
+                  "standarizedValue": 5.45,
+                  "weight": 0.2134
+                },
+                {
+                  "id": "akuakultur",
+                  "label": "Volume produksi akuakultur laut (Ton)",
+                  "rawValue": 1000000,
+                  "standarizedValue": 10,
+                  "weight": 0.5512
+                },
+                {
+                  "id": "tambak",
+                  "label": "Volume produksi budidaya tambak (Ton)",
+                  "rawValue": 400000,
+                  "standarizedValue": 4,
+                  "weight": 0.5306
+                },
+                {
+                  "id": "produksi",
+                  "label": "Volume produksi perikanan (Ton)",
+                  "rawValue": 99999,
+                  "standarizedValue": 0.99999,
+                  "weight": 0.128
+                },
+                {
+                  "id": "rumputlaut",
+                  "label": "Volume produksi budidaya rumput laut (Ton)",
+                  "rawValue": 2000000,
+                  "standarizedValue": 20,
+                  "weight": 0.5939
+                }
+              ]
+            },
+            {
+              "id": "industri",
+              "title": "Subpilar Industri Berbasis Kelautan",
+              "indikator": [
+                {
+                  "id": "eksporolahan",
+                  "label": "Volume ekspor ikan olahan (Ton)",
+                  "rawValue": 5000000,
+                  "standarizedValue": 500,
+                  "weight": 0.5772
+                },
+                {
+                  "id": "garam",
+                  "label": "Volume produksi garam (Ton)",
+                  "rawValue": 7000,
+                  "standarizedValue": 0.7,
+                  "weight": 0.6389
+                },
+                {
+                  "id": "kapalpenangkap",
+                  "label": "Jumlah perahu/kapal penangkap ikan (Unit)",
+                  "rawValue": 40,
+                  "standarizedValue": 0.04,
+                  "weight": 0.5085
+                }
+              ]
+            },
+            {
+              "id": "perdagangan",
+              "title": "Subpilar Perdagangan, Transportasi dan Logistik",
+              "indikator": [
+                {
+                  "id": "angkutanlaut",
+                  "label": "Volume angkutan laut (Ton)",
+                  "rawValue": 20000,
+                  "standarizedValue": 0.00002,
+                  "weight": 0.0254
+                },
+                {
+                  "id": "penumpang",
+                  "label": "Jumlah penumpang angkutan laut (Orang)",
+                  "rawValue": 199,
+                  "standarizedValue": 0.00199,
+                  "weight": 0.3969
+                },
+                {
+                  "id": "penumpangstrategis",
+                  "label": "Jumlah penumpang angkutan laut di 25 pelabuhan strategis (Orang)",
+                  "rawValue": 100,
+                  "standarizedValue": 0.001,
+                  "weight": 0.5105
+                },
+                {
+                  "id": "eksporperikanan",
+                  "label": "Volume ekspor perikanan (Ton)",
+                  "rawValue": 200000,
+                  "standarizedValue": 20,
+                  "weight": 0.4419
+                },
+                {
+                  "id": "kontribusdiekspor",
+                  "label": "Kontribusi ekspor produk perikanan terhadap total ekspor (%)",
+                  "rawValue": 4.67,
+                  "standarizedValue": 4.67,
+                  "weight": 0.3429
+                },
+                {
+                  "id": "eksporhidup",
+                  "label": "Volume ekspor perikanan hidup dan segar (Ton)",
+                  "rawValue": 299999,
+                  "standarizedValue": 29.9999,
+                  "weight": 0.518
+                }
+              ]
+            },
+            {
+              "id": "pariwisata",
+              "title": "Subpilar Pariwisata Berbasis Kelautan",
+              "indikator": [
+                {
+                  "id": "wisatabahari",
+                  "label": "Jumlah wisata bahari (Titik)",
+                  "rawValue": 40,
+                  "standarizedValue": 4,
+                  "weight": 0.7071
+                },
+                {
+                  "id": "wisatatirta",
+                  "label": "Jumlah usaha/perusahaan wisata tirta komersial (Usaha)",
+                  "rawValue": 10,
+                  "standarizedValue": 1,
+                  "weight": 0.7071
+                }
+              ]
+            },
+            {
+              "id": "teknologi",
+              "title": "Subpilar Teknologi",
+              "indikator": [
+                {
+                  "id": "kapaltangkap",
+                  "label": "Jumlah kapal perikanan tangkap laut - kapal motor > 30 GT(Unit)",
+                  "rawValue": 40,
+                  "standarizedValue": 0.4,
+                  "weight": 1
+                }
+              ]
+            },
+            {
+              "id": "tatakelola",
+              "title": "Subpilar Tatakelola",
+              "indikator": [
+                {
+                  "id": "TPI",
+                  "label": "Jumlah pelabuhan perikanan dengan Tempat Pelelangan Ikan (Pelabuhan)",
+                  "rawValue": 2,
+                  "standarizedValue": 2,
+                  "weight": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lingkungan",
+          "title": "Pilar Lingkungan",
+          "color": "green",
+          "subPilar": [
+            {
+              "id": "konservasi",
+              "title": "Subpilar Kualitas Sumber Daya dan Konservasi Laut",
+              "indikator": [
+                {
+                  "id": "terumbu",
+                  "label": "Kawasan terumbu karang berkualitas baik (%)",
+                  "rawValue": 45.6,
+                  "standarizedValue": 45.6,
+                  "weight": 0.0921
+                },
+                {
+                  "id": "lamun",
+                  "label": "Kawasan lamun berkualitas baik (%)",
+                  "rawValue": 50.5,
+                  "standarizedValue": 50.5,
+                  "weight": 0.2119
+                },
+                {
+                  "id": "mangrove",
+                  "label": "Kawasan hutan mangrove berkualitas baik (%)",
+                  "rawValue": 30,
+                  "standarizedValue": 30,
+                  "weight": 0.0078
+                },
+                {
+                  "id": "desaTPS",
+                  "label": "Jumlah desa pesisir dengan tempat pembuangan sampah (Desa)",
+                  "rawValue": 20,
+                  "standarizedValue": 2,
+                  "weight": 0.4625
+                },
+                {
+                  "id": "tempatbuangair",
+                  "label": "Jumlah desa pesisir dengan tempat buang air besar (Desa)",
+                  "rawValue": 21,
+                  "standarizedValue": 2.1,
+                  "weight": 0.5129
+                },
+                {
+                  "id": "rehabilitasi",
+                  "label": "Penanaman/rehabilitasi hutan mangrove, rawa, dan lahan gambut (Ha)",
+                  "rawValue": 3400.67,
+                  "standarizedValue": 340.067,
+                  "weight": 0.1677
+                },
+                {
+                  "id": "kawasan",
+                  "label": "Luas kawasan konservasi perairan (Ha)",
+                  "rawValue": 131556.76,
+                  "standarizedValue": 0.13155676000000002,
+                  "weight": 0.5439
+                },
+                {
+                  "id": "sampahlaut",
+                  "label": "Inversed Jumlah Sampah dibuang di Laut (gr/m^2)",
+                  "rawValue": 32,
+                  "standarizedValue": 0.3125,
+                  "weight": 0.3674
+                },
+                {
+                  "id": "sampahdarat",
+                  "label": "Inversed Jumlah Sampah dibuang di darat (Ton/Tahun)",
+                  "rawValue": 10000,
+                  "standarizedValue": 100000,
+                  "weight": 0.1029
+                }
+              ]
+            },
+            {
+              "id": "energi",
+              "title": "Subpilar Energi Terbaharukan",
+              "indikator": [
+                {
+                  "id": "PLTS",
+                  "label": "Kapasitas terpasang Pembangkit Listrik Tenaga Surya (MW)",
+                  "rawValue": 34,
+                  "standarizedValue": 34,
+                  "weight": 0.4902
+                },
+                {
+                  "id": "hasilPLTS",
+                  "label": "Listrik yang dihasilkan oleh Pembangkit Listrik Tenaga Surya (GWh)",
+                  "rawValue": 34,
+                  "standarizedValue": 0.34,
+                  "weight": 0.4837
+                },
+                {
+                  "id": "PLTA",
+                  "label": "Kapasitas terpasang Pembangkit Listrik Tenaga Air (MW)",
+                  "rawValue": 34,
+                  "standarizedValue": 34,
+                  "weight": 0.5299
+                },
+                {
+                  "id": "hasilPLTA",
+                  "label": "Listrik yang dihasilkan oleh Pembangkit Listrik Tenaga Air (GWh)",
+                  "rawValue": 43,
+                  "standarizedValue": 0.43,
+                  "weight": 0.4948
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sosial",
+          "title": "Pilar Sosial",
+          "color": "yellow",
+          "subPilar": [
+            {
+              "id": "kesejahteraan",
+              "title": "Subpilar Kesejahteraan",
+              "indikator": [
+                {
+                  "id": "nelayan",
+                  "label": "Jumlah nelayan dan pembudidaya ikan (Orang)",
+                  "rawValue": 150,
+                  "standarizedValue": 0.015,
+                  "weight": 0.1043
+                },
+                {
+                  "id": "pekerjaperempuan",
+                  "label": "Jumlah pekerja perempuan di sektor perikanan (Orang)",
+                  "rawValue": 35,
+                  "standarizedValue": 0.0035,
+                  "weight": 0.1043
+                },
+                {
+                  "id": "PKH",
+                  "label": "Inversed persentase keluarga sektor perikanan penerima Program Keluarga Harapan (%)",
+                  "rawValue": 20.5,
+                  "standarizedValue": 20.5,
+                  "weight": 0.9891
+                }
+              ]
+            },
+            {
+              "id": "pendidikan",
+              "title": "Subpilar Pendidikan",
+              "indikator": [
+                {
+                  "id": "lulusan",
+                  "label": "Jumlah lulusan sekolah perikanan (Orang)",
+                  "rawValue": 34,
+                  "standarizedValue": 0.34,
+                  "weight": 0.3357
+                },
+                {
+                  "id": "pelatihan",
+                  "label": "Jumlah peserta pelatihan perikanan (Orang)",
+                  "rawValue": 34,
+                  "standarizedValue": 0.34,
+                  "weight": 0.3936
+                },
+                {
+                  "id": "SMK",
+                  "label": "Jumlah SMK kemaritiman (Sekolah)",
+                  "rawValue": 3,
+                  "standarizedValue": 0.3,
+                  "weight": 0.5108
+                },
+                {
+                  "id": "pendidikanSMA",
+                  "label": "Persentase penduduk sektor perikanan dengan pendidikan terakhir SMA atau sederajat (%)",
+                  "rawValue": 4,
+                  "standarizedValue": 4,
+                  "weight": 0.4845
+                },
+                {
+                  "id": "pendidikanijazah",
+                  "label": "Persentase penduduk di sektor perikanan dengan ijazah minimal SMA atau sederajat (%)",
+                  "rawValue": 3,
+                  "standarizedValue": 3,
+                  "weight": 0.4816
+                },
+                {
+                  "id": "PIP",
+                  "label": "Inversed Persentase penduduk di sektor perikanan penerima Program Indonesia Pintar (%)",
+                  "rawValue": 11,
+                  "standarizedValue": 0.09090909090909091,
+                  "weight": 0.0695
+                }
+              ]
+            },
+            {
+              "id": "kesehatan",
+              "title": "Subpilar Kesehatan",
+              "indikator": [
+                {
+                  "id": "kalori",
+                  "label": "Rata-rata konsumsi kalori ikan per kapita (kkal/hari)",
+                  "rawValue": 53,
+                  "standarizedValue": 5.3,
+                  "weight": 0.6073
+                },
+                {
+                  "id": "protein",
+                  "label": "Rata-rata konsumsi protein dari ikan per kapita (kkal/hari)",
+                  "rawValue": 33,
+                  "standarizedValue": 33,
+                  "weight": 0.5942
+                },
+                {
+                  "id": "pekerja",
+                  "label": "Persentase penduduk bekerja di sektor perikanan yang memiliki jaminan kesehatan (%)",
+                  "rawValue": 39,
+                  "standarizedValue": 39,
+                  "weight": 0.5266
+                },
+                {
+                  "id": "kemiskinan",
+                  "label": "Inversed Persentase Penduduk Pesisir yang Hidup di Bawah Garis Kemiskinan (%)",
+                  "rawValue": 12,
+                  "standarizedValue": 0.08333333333333333,
+                  "weight": 0.0289
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
